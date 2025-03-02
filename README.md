@@ -3,7 +3,11 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
+<<<<<<< HEAD
 3
+=======
+33
+>>>>>>> main1
 # Naming cheatsheet
 
 - [English language](#english-language)
